@@ -710,9 +710,6 @@
     <ClCompile Include="CSaveLoadWithPreviewDlg.cpp">
       <Filter>GUI</Filter>
     </ClCompile>
-    <ClCompile Include="..\external\fmt\src\format.cc">
-      <Filter>fmtlib</Filter>
-    </ClCompile>
     <ClCompile Include="..\fscompat.cpp">
       <Filter>Emu</Filter>
     </ClCompile>
